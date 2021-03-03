@@ -1,2 +1,2 @@
-# UI-UX
-All the UI designs 
+# UI/UX
+This repo containes all the UI designs created by me.
